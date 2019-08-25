@@ -8,7 +8,7 @@
 
 ## Quick view
 
-![main page](https://raw.githubusercontent.com/newman0934/restaurant/master/public/img/main.png)
+![main page](https://raw.githubusercontent.com/newman0934/restaurant/master/public/img/show.png)
 ![index page](https://raw.githubusercontent.com/newman0934/restaurant/master/public/img/index.png)
 
 ## Environment set up
